@@ -1,3 +1,3 @@
-Doskey /MACROFILE=C:\\aliases\\myaliases.txt
+Doskey /MACROFILE=C:\\aliases\\aliases.txt
 cd C:\projects
 clear

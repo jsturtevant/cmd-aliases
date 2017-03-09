@@ -1,1 +1,2 @@
 pr=cd C:\Projects\
+daz=docker run -v ${HOME}:/root -it azuresdk/azure-cli-python:latest
